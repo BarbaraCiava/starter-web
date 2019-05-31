@@ -1,0 +1,16 @@
+mkdir nome cartella (crea la nuova directory)
+cd nome cartella/ sposta la directory nella nuova cartella 
+Posso impostare lo user name ed email in git con i seguenti comandi
+git config --global user.name "Barbara"
+git config --global user.email "barbara.ciava@gmail.com"
+git config --global --list per confermare i comandi sopra
+git clone clona il repository di git hub imposta una relazione al repository su git hub chiamando tale riferimento origin 
+ls per confermare la directory del repository
+Git status ci dice in che ramo sono
+echo "contenuto nuovo file " nome file.txt crea un nuovo file
+cat nome file.txt mostra il contenuto del file
+Se ricontrollo git status git ci dice che abbiamo un file non tracciato
+utilizziamo git add start.txt per comunicare a git il nuovo file
+commit -m sposta il file dall'area di staging all'area di repository locale
+git push origin master serve per copiare il repository locale su github più il nome del ramo che in questo caso è solo master
+
