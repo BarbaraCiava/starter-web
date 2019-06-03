@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Barbara Ciavarella barbara@git.training @awesomejt
 
 # THANKS
 
