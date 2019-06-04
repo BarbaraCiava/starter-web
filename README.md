@@ -13,5 +13,6 @@ I also test tool.
 
 ## How to Contribute
 Please gork this repository and then issue Pull Request for review.
+
 ### Copyright
-2019 Git.Training
+2019 Git.Training. All rights reserved.
