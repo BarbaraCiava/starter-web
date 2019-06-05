@@ -8,6 +8,8 @@ This example is to show different parts of the Git repository with various comma
 ## Purpose
 A stated above the main purpose is to povided simple example for Git training demos. 
 
+##Updates from Dev1
+
 ## Deployment 
 This is a simple web project, deployment can be on any server or local file system.
 I also test tool.
